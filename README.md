@@ -1,5 +1,7 @@
 # compara-directorios
-Comparar el contenido de dos directorios para confirmar si se hizo correctamente un respaldo.
+Scripts de linux para comparar el contenido de dos directorios con el objetivo de:
+  - confirmar si se hizo correctamente un respaldo.
+  - verificar el contenido y mostrar los archivos diferentes.
 
 
 ## 'compara_directorios_multitarea.sh' por Luis Manuel Juárez - 22_mar_2020
