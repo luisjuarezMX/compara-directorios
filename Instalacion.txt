@@ -1,0 +1,12 @@
+1) Abrir Thunar y entrar al directorio "Software/Fuentes/00a. compara directorios/"
+   ->CLICK_BOTÓN_DERECHO_SOBRE_UN_AREA_LIBRE_DEL_DIRECTORIO->Abrir un terminal aquí
+
+   Ejecutar los siguientes comandos en la terminal abierta:
+
+   - su
+   - mkdir -p /usr/local/bin
+   - cp compara_directorios_multitarea.sh compara_directorios_secuencial.sh proceso1_compara_directorios.sh proceso2_compara_directorios.sh /usr/local/bin/
+   - chmod a+rx-w /usr/local/bin/compara_directorios_multitarea.sh /usr/local/bin/compara_directorios_secuencial.sh /usr/local/bin/proceso1_compara_directorios.sh /usr/local/bin/proceso2_compara_directorios.sh
+   - exit
+
+2) FIN
