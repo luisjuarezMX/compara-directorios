@@ -1,7 +1,4 @@
-1) Abrir Thunar y entrar al directorio "Software/Fuentes/00a. compara directorios/"
-   ->CLICK_BOTÓN_DERECHO_SOBRE_UN_AREA_LIBRE_DEL_DIRECTORIO->Abrir un terminal aquí
-
-   Ejecutar los siguientes comandos en la terminal abierta:
+1) Abrir una terminal y ejecutar los siguientes comandos en la terminal abierta:
 
    - su
    - mkdir -p /usr/local/bin
